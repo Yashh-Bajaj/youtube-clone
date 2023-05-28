@@ -29,6 +29,8 @@ This will launch the application on your local host. You can access it through y
 - Fetches video details from an API.
 - Displays video information on the web page.
 -All the videos are coming on the display.
+-Written all CSS by Tailwind CSS.
+-Used all the concept of React
 
 ## Configuration
 
